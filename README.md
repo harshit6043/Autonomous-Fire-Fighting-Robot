@@ -72,14 +72,7 @@ Before operating the assembled robot, test the motors and pump separately and ke
 - COOLDOWN: Keeps the pump off for a defined recovery period.
 - SAFETY_FAULT: Safe fallback state that stops the motors and pump.
   
-## 📂 Project Structure
-Autonomous-Fire-Fighting-Robot/
-├── README.md
-├── src/
-│   └── autonomouus.ino
-└── docs/
-    └── autonomous fire fighting robot.png
-    
+
 ## 🔮 Future Improvements
 - Add obstacle detection and avoidance.
 - Calibrate sensor sensitivity for different environments.
